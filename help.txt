@@ -1,0 +1,5 @@
+Links :
+https://en.wikipedia.org/wiki/Lempel%E2%80%93Ziv%E2%80%93Welch
+http://michael.dipperstein.com/lzw/
+https://en.wikipedia.org/wiki/Huffman_coding
+home.cse.ust.hk/faculty/golin/COMP271Sp03/Notes/MyL17.pdf
